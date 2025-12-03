@@ -1,3 +1,3 @@
-module github.com/username/go-rpc-chat
+module github.com/hassandarw1sh/multiple-clients-servers
 
-go 1.25.3
+go 1.22.0
